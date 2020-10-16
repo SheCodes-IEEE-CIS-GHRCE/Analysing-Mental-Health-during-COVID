@@ -25,7 +25,7 @@ We further want to work on the following areas to improve our project:
   1. Develop models to predict the emergence of depression and Post-Traumatic Stress Disorder in Twitter users
   2. In the future we want to work on a multilingual dataset so that our project is not limited to only English tweets and will cover a greater audience.
   3. Implement the project using different Deep learning models and other architectures like BERT (Bidirectional Encoder Representations from Transformers) to infer more valuable outcomes.
-
+We have also made a UI in which one can analyse their text.
 This was a small contribution on our part to fight this Battle of Mental Illness.
 
 # Team
