@@ -6,9 +6,6 @@ Due to social isolation and lockdowns, COVID-19 has affected the mental health o
 
 Mental health is important at every stage of life, from childhood and adolescence through adulthood. Over the course of your life, if you experience mental health problems, you’re thinking, mood, and behaviour could be affected.
 
-Now 20 million schoolchildren worldwide have now been diagnosed with mental disorders and prescribed cocaine-like stimulants and powerful antidepressants as treatment.
-By doing diagnosis, it can reveal truths you’ve never known about yourself. Around 450 million people currently suffer from such conditions, placing mental disorders among the leading causes of ill-health and disability worldwide.
-
 
 Nowadays Social Media is a place where millions of peoples share their lives every day, creating a platform of self-expression and interesting information. People using social media as a way of expressing their feelings, loneliness, envy, anxiety, depression, narcissism. There are 3.96 billion of people are using social media out of which 330 million are using twitter.
 
