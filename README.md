@@ -21,7 +21,7 @@ From futher reasearch using news articles, we found more statiscal reports and r
 
 # Team
 The projected is contributed by:
-Smriti Nayak
-Shivani Gurbani
-Shruti Kumnhare
-Arnatri Bandopadhyay
+  1. Smriti Nayak
+  2. Shivani Gurbani
+  3. Shruti Kumnhare
+  4. Arnatri Bandopadhyay
