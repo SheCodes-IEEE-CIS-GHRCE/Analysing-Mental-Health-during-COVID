@@ -19,6 +19,15 @@ After this, using Frequency Distribution, 50 most frequently occuring words were
 The worldcloud of the PreCovid dataset showed some relevant words like 'depress, anxiety, jope, life, time, people'. This suggests that mental health issues were prevalent before the outbreak of COVID-19. However, the worldcloud of the PostCovid Dataset contained some new words like 'lockdown, quarantine, stay home, unemployed, job, corona, ill' which clearly justifies that this outbreak has indeed affected and contributed towards increase in cases of mental illness.
 From futher reasearch using news articles, we found more statiscal reports and research papers justifying the same.
 
+# Conclusion
+The first step is solving a problem is to diagnose the problem. And our baby project is a baby step in creating Awareness about Mental Health and it's diagnosis.
+We further want to work on the following areas to improve our project:
+  1. Develop models to predict the emergence of depression and Post-Traumatic Stress Disorder in Twitter users
+  2. In the future we want to work on a multilingual dataset so that our project is not limited to only English tweets and will cover a greater audience.
+  3. Implement the project using different Deep learning models and other architectures like BERT (Bidirectional Encoder Representations from Transformers) to infer more valuable outcomes.
+
+This was a small contribution on our part to fight this Battle of Mental Illness.
+
 # Team
 The projected is contributed by:
   1. Smriti Nayak
